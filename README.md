@@ -15,7 +15,7 @@ Here are a few projects that I'm proud of:
 
 1. **[Blog App](https://github.com/PrinceInScripts/Blog-App):** A Blogging WriteWave Web App Using Of MERN.
 2. **[LMS Website](https://github.com/PrinceInScripts/LMS-Website):** Learning Management System (LMS) project, MERN (MongoDB, Express.js, React, Node.js) stack
-3. **[Weather App](https://github.com/PrinceInScripts/Weather-App):** Weather App: Seamlessly access real-time weather updates and forecasts with an intuitive interface and city search functionality.
+3. **[Weather App](https://github.com/PrinceInScripts/Weather-App):** Seamlessly access real-time weather updates and forecasts with an intuitive interface and city search functionality.
 
 Feel free to explore more on my [GitHub profile](https://github.com/PrinceInScripts?tab=repositories)!
 
