@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Jigar Sable </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/prince-kumar-788673253/" target="_blank"> Prince Kumar </a></h1>
 
 <p  align="center" >I'm a MERN (MongoDB, Express.js, React, Node.js) stack developer and a Computer Applications student currently pursuing a BCA degree at Maa Bharthi PG Collage, Kota Unversity. 🎓</p>
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+- 💬 Ask me about **Web Development, Python, DBMS, C++**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.vercel.app" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://codewithprince.vercel.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
