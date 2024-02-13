@@ -56,8 +56,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=dark&locale=en" alt="PrinceInScripts" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceInScripts&show_icons=true&theme=dark&locale=en&layout=compact" alt="PrinceInScripts" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=radical&locale=en" alt="PrinceInScripts" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceInScripts&layout=donut&theme=dark&locale=en" alt="PrinceInScripts" /></td>
   </tr>
 </table>
 
