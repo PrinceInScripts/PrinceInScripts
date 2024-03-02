@@ -54,10 +54,12 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceInScripts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=radical&locale=en" alt="PrinceInScripts" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceInScripts&layout=donut&theme=dark&locale=en" alt="PrinceInScripts" /></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PrinceInScripts&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
