@@ -65,7 +65,7 @@
 
 <table>
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=github_dark" alt="streak graph"  /></td>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=radical&locale=en" alt="PrinceInScripts" /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceInScripts&theme=github_dark" alt="PrinceInScripts" /></td>
   </tr>
 </table>
