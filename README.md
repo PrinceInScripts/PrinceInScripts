@@ -54,35 +54,26 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-<!--
+
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=radical&locale=en" alt="PrinceInScripts" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceInScripts&layout=donut&theme=dark&locale=en" alt="PrinceInScripts" /></td>
+    <td> <img src="https://streak-stats.demolab.com?user=PrinceInScripts&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceInScripts&theme=github_dark" alt="PrinceInScripts" /></td>
   </tr>
 </table>
--->
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PrinceInScripts&theme=dracula&hide_border=true" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceInScripts&theme=github_dark" alt="streak graph"  />
-</div>
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceInScripts&theme=github_dark" alt="PrinceInScripts" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=github_dark" alt="streak graph"  /></td>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceInScripts&theme=github_dark" alt="PrinceInScripts" /></td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceInScripts&show_icons=true&theme=github_dark" alt="streak graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceInScripts&theme=github_dark" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PrinceInScripts&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+
 
