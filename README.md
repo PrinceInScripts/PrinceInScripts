@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Web Development, Python, DBMS, C++**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://codewithprince.vercel.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://scriptxprince.me/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
